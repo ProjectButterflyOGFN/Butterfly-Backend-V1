@@ -51,7 +51,7 @@
 ## Hosting for others
 You are allowed to host for others, however please credit me and don't remove my credits from `responses/contentpages.json`.
 
-## How to host LawinServerV2
+## How to host  Butterfly Backend V1
 1) Install [NodeJS](https://nodejs.org/en/) and [MongoDB](https://www.mongodb.com/try/download/community).
 2) Download and Extract LawinServerV2 to a safe location.
 3) Run "install_packages.bat" to install all the required modules.
